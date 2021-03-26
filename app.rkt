@@ -2,27 +2,6 @@
 File:    app.rkt
 Author:  Aki Iskandar
 Date:    March 25, 2021
-
-Discalimer:
------------
-I have less than 20 hours experience with Racket. I've written this file (app.rkt) as an  
-experiment to see just how productive I can be in only a very short time with the language.
-In fact, I volunteered to give a short talk on a topic I find usefull (since most developers 
-also at least tinker with web development) to show other novices to Racket that the initial 
-learning curve is quite gentle.
-
-Witin the first day of using Racket, I enjoyed the language so much that I decided to seriously evaluate it 
-as the platform for writting the web APIS for a commercial poject I have.
-
-I hope you find this code, however brief and limited, as incentive to explore web development with Racket.
-
-Use at your own risk:
----------------------
-You are free to use any or all of this code, for whatever purpose, for the rest of time, and without consent. 
-This code was written by a complete novice to Racket, and is being shared for collaborative learning and 
-experimentation. Consequently, if you use any of this code, you agree to use it at your own risk, 
-and to never seek any form of compensation from the author for any damages or financial losses which may  
-result from using this code, be it directely or indirectly.  
 |#
 
 
@@ -89,7 +68,7 @@ result from using this code, be it directely or indirectly.
    #:code 200
    #:mime-type APPLICATION/JSON-MIME-TYPE  	 
    (query-value pgc "select get_members_as_json_string()")))
-   
+
 
 ;; =======================================================
 ;; Start Racket's web server on port 8080
