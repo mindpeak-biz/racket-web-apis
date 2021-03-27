@@ -1,10 +1,19 @@
 # racket-web-apis
 CRUD Web APIS written in Racket
 
-Witin the first day of using Racket, I enjoyed the language so much that I decided to seriously evaluate it 
+Within just the first day of using Racket, I enjoyed the language so much that I decided to seriously evaluate it 
 as the platform for writting the web APIS for a commercial project I have.
 
 If you're new to Racket, or just looking into it out of curiosity, I hope you find this code (however brief and limited), to be an incentive to explore web development with Racket. 
+
+
+How to use this code:
+---------------------
+1 - Clone the repo to your computer
+2 - Install Racket (and DrRacket - an IDE for Racket) for your OS
+3 - Launch DrRacket
+4 - Open the app.rkt file in DrRacket and run it (click the green arrow on the top right of the GUI)
+5 - Just experiment and have fun
 
 
 Discalimer:
