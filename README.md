@@ -10,9 +10,13 @@ If you're new to Racket, or just looking into it out of curiosity, I hope you fi
 How to use this code:
 ---------------------
 1 - Clone the repo to your computer
+
 2 - Install Racket (and DrRacket - an IDE for Racket) for your OS
+
 3 - Launch DrRacket
+
 4 - Open the app.rkt file in DrRacket and run it (click the green arrow on the top right of the GUI)
+
 5 - Just experiment and have fun
 
 
