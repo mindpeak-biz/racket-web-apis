@@ -12,6 +12,8 @@ This repository is currently extremely limited (only having devoted 2 days to le
 How to use this code:
 ---------------------
 1 - Clone the repo to your computer
+<<<<<<< HEAD
+<<<<<<< HEAD
 2 - Download and install Racket (and DrRacket - an IDE for Racket) for your OS (https://download.racket-lang.org/)
 3 - Launch DrRacket
 4 - Open the app.rkt file (from the cloned repo) in DrRacket and run it by clicking the green arrow on the top right of the IDE

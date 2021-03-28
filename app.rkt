@@ -34,12 +34,7 @@ Date:    March 25, 2021
    [("/") #:method "get" start]
    [("home") #:method "get" home]
    [("sample") #:method "get" sample-template]  
-   ;;[("about") #:method "get" about]  
-   ;;[("crumb") #:method "get" crumb]
-   ;;[("qs") #:method "get" qs]
-   ;;[("members") #:method "get" members]
-   ;;[("member") #:method "post" create-member]
-   ))
+   [("members") #:method "get" members]))
 
 
 (define (start req) ;; this seems to never run
